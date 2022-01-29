@@ -22,6 +22,13 @@ List the absolute minimum features the project requires to meet this purpose or 
 * On the random page, there should be a “Random” button to randomize another six cards.
 
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+* React -- Create a single page app.
+* Redux -- Manage state.
+* APIs -- For the card readings https://github.com/ekelen/tarot-api
+* Tarot Decks -- For the list of all the tarot cards 
+1. https://xsj.699pic.com/sou/chouxiangyuyantuxingshouhuitaluopai.html?from=28 or
+2. https://www.bennionkearny.com/wp-content/uploads/2019/11/Tarot-Card-Deck.pdf
+* CSS Obects -- Styling the app
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
