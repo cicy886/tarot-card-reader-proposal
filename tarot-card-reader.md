@@ -10,7 +10,7 @@ List the absolute minimum features the project requires to meet this purpose or 
 * The back of 78 tarot cards is listed on the webpage.
 * Users will be able to flip the cards with a single click.
 * Users will be redirected to the details page when they double-click the cards and read the full meaning of the cards.
-* When users click it, it will redirect them to a page with six random cards. Six cards indicate:
+* A button on the page “Select me and see how things are with you generally!”. When users click it, it will redirect them to a page with six random cards. Six cards indicate:
 1. How you feel about yourself now
 2. What you most want at this moment
 3. Your fears
@@ -41,3 +41,6 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 * Authentication -- Firebase
 
 Is there anything else you'd like your instructor to know?
+
+* It seems like I can use Firebase can use for authentications, but I'v heard it is not good to use with Redux? So if I really want to add authetications for the app, what do you recommend me to use?
+* Is it possible to make the button as a tab? For example, instead of having a botton says “Select me and see how things are with you generally!”, can I make it a "Random" tap to redirect the users to the random page? Will it still be a single page app with React?
