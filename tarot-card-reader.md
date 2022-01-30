@@ -32,6 +32,10 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 
 If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
+* Users can log in and log off
+* Users can sort the cards by their’ categories
+* Users can pick the 6 random cards by themselves instead of generates by the app
+
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
 Is there anything else you'd like your instructor to know?
