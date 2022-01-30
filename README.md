@@ -5,3 +5,4 @@
 * 2:45 List the minimum features for the project
 * 3:35 List tools, frameworks, APIs and other resources that can be used in the project
 * 3:55 Stretch goal for the project
+* 4:05 Additional resources that can be used for the stretch goals

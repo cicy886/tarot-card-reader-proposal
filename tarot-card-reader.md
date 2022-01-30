@@ -38,4 +38,6 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
+* Authentication -- Firebase
+
 Is there anything else you'd like your instructor to know?
