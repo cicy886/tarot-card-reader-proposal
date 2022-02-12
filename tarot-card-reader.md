@@ -44,3 +44,7 @@ Is there anything else you'd like your instructor to know?
 
 * It seems like I can use Firebase can use for authentications, but I'v heard it is not good to use with Redux? So if I really want to add authetications for the app, what do you recommend me to use?
 * Is it possible to make the button as a tab? For example, instead of having a botton says “Select me and see how things are with you generally!”, can I make it a "Random" tap to redirect the users to the random page? Will it still be a single page app with React?
+
+Additional sources for coding:
+
+* React + Firebase/Firestore tutorial https://www.youtube.com/watch?v=jCY6DH8F4oc&ab_channel=PedroTech

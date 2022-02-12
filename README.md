@@ -7,3 +7,7 @@
 * 3:55: Stretch goal for the project
 * 4:05: Additional resources that can be used for the stretch goals
 * 4:10: Some questions for the instructor
+
+#### Saturday, 02/12/2022
+
+* 2:10: Watched a video for how to setup a project with just React and firebase
