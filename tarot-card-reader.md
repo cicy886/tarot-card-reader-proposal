@@ -48,3 +48,4 @@ Is there anything else you'd like your instructor to know?
 Additional sources for coding:
 
 * React + Firebase/Firestore tutorial https://www.youtube.com/watch?v=jCY6DH8F4oc&ab_channel=PedroTech
+* Make image to pixel art https://theimagekit.com/image-to-pixel

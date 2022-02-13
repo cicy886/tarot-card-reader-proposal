@@ -12,3 +12,4 @@
 
 * 2:10: Watched a video for how to setup a project with just React and firebase
 * 3:10: Collect Tarot cards
+* 5:15: Do research for making images into pixel art
