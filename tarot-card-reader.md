@@ -26,7 +26,7 @@ What tools, frameworks, libraries, APIs, modules and/or other resources (whateve
 * Redux -- Manage state.
 * APIs -- For the card readings https://github.com/ekelen/tarot-api
 * Tarot Decks -- For the list of all the tarot cards 
-1. https://xsj.699pic.com/sou/chouxiangyuyantuxingshouhuitaluopai.html?from=28 or
+1. https://xsj.699pic.com/lauthor/taluoka-3325457-1new/1.html or
 2. https://www.bennionkearny.com/wp-content/uploads/2019/11/Tarot-Card-Deck.pdf
 * CSS Obects -- Styling the app
 
