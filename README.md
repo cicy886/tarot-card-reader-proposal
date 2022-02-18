@@ -14,3 +14,7 @@
 * 3:10: Collect Tarot cards
 * 5:15: Do research for making images into pixel art
 * 5:20: Edit images
+
+#### Thursday, 02/17/2022
+
+* 5:20: Do research for import images to a file dynamically.
