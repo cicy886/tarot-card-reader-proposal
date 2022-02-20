@@ -50,3 +50,7 @@ Additional sources for coding:
 * React + Firebase/Firestore tutorial https://www.youtube.com/watch?v=jCY6DH8F4oc&ab_channel=PedroTech
 * Make image to pixel art https://theimagekit.com/image-to-pixel
 * Import mutipule images with one import https://www.youtube.com/watch?v=gEMAZSO85KY&ab_channel=WebStylePress
+
+Problem found:
+
+Only create script version 5.0.0 can show images correctly with custom import function.

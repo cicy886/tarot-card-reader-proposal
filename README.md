@@ -17,4 +17,8 @@
 
 #### Thursday, 02/17/2022
 
-* 5:20: Do research for import images to a file dynamically.
+* 5:20: Do research for import images to a file dynamically
+
+#### Saturday, 02/19/2022
+
+* 2:10 - 4:00 test dynamically importing images
