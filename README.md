@@ -21,4 +21,8 @@
 
 #### Saturday, 02/19/2022
 
-* 2:10 - 4:00 test dynamically importing images
+* 2:10 - 4:00: Test dynamically importing images
+
+#### Saturday, 02/26/2022
+
+*1:00-3:05: Got all images displayed on one page with a sigle function

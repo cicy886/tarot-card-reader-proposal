@@ -53,4 +53,8 @@ Additional sources for coding:
 
 Problem found:
 
-Only create script version 5.0.0 can show images correctly with custom import function.
+* Only create script version 5.0.0 can show images correctly with custom import function.
+* Pixeled tarot card are too blury to see, consider just use pixel arts as decorations for the app
+* Need to think about how to connect api contents with corresponding images. With the import function, images don't have extra information, ie, names, id, etc. Thoughts about solving the problem: Discard the image import function, use the JSON file fatched from api and use it in the image link. For example: 
+const image= require(`./../img/${card.name_short}.jpg`)
+<img src = {image}>
