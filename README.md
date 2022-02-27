@@ -29,5 +29,6 @@
 
 #### Sunday, 02/27/2022
 
-* 9:30 - 10:20 Watched a video for useEffect and fetch data from an api
-* 10 :20 - 12:55 successfully dynamically import images using the fetched data from the api
+* 9:30 - 10:20: Watched a video for useEffect and fetch data from an api
+* 10 :20 - 12:55: Successfully dynamically import images using the fetched data from the api
+* 2:00 - 3:40: Moved testing code to the final capstone porject and add new functionalities and styling
