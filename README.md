@@ -29,4 +29,5 @@
 
 #### Sunday, 02/27/2022
 
-* 9:30 - 10:20 Watched a video for use effect and fetch data from api
+* 9:30 - 10:20 Watched a video for useEffect and fetch data from an api
+* 10 :20 - 12:55 successfully dynamically import images using the fetched data from the api
