@@ -50,11 +50,12 @@ Additional sources for coding:
 * React + Firebase/Firestore tutorial https://www.youtube.com/watch?v=jCY6DH8F4oc&ab_channel=PedroTech
 * Make image to pixel art https://theimagekit.com/image-to-pixel
 * Import mutipule images with one import https://www.youtube.com/watch?v=gEMAZSO85KY&ab_channel=WebStylePress
+* Using useEffect to fetch data from the api https://www.youtube.com/watch?v=RVFAyFWO4go&t=3362s&ab_channel=DaveGray from 4:04:00 to 4:44:00
 
 Problem found:
 
 * Only create script version 5.0.0 can show images correctly with custom import function.
 * Pixeled tarot card are too blury to see, consider just use pixel arts as decorations for the app
-* Need to think about how to connect api contents with corresponding images. With the import function, images don't have extra information, ie, names, id, etc. Thoughts about solving the problem: Discard the image import function, use the JSON file fatched from api and use it in the image link. For example: 
+* Need to think about how to connect api contents with corresponding images. With the import function, images don't have extra information, ie, names, id, etc. Thoughts about solving the problem: Discard the image import function, use the JSON file fetched from api and use it in the image link. For example: 
 const image= require(`./../img/${card.name_short}.jpg`)
 <img src = {image}>

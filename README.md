@@ -25,4 +25,8 @@
 
 #### Saturday, 02/26/2022
 
-*1:00-3:05: Got all images displayed on one page with a sigle function
+* 1:00-3:05: Got all images displayed on one page with a sigle function
+
+#### Sunday, 02/27/2022
+
+* 9:30 - 10:20 Watched a video for use effect and fetch data from api
