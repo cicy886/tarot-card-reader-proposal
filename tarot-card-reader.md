@@ -60,3 +60,5 @@ Problem found:
 * Need to think about how to connect api contents with corresponding images. With the import function, images don't have extra information, ie, names, id, etc. Thoughts about solving the problem: Discard the image import function, use the JSON file fetched from api and use it in the image link. For example: 
 const image= require(`./../img/${card.name_short}.jpg`)
 <img src = {image}>
+
+* The selected card functionality was suppose to loop through an object within and object, so use cards[id] won't work. It needs to be cards.cards[id]

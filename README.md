@@ -34,3 +34,7 @@
 * 2:00 - 3:40: Moved testing code to the final capstone porject and add new functionalities and styling
 * 3:40 - 3:55: Watched a tutorial video for creating a popup for card details
 * 3:55 - 4:55: Select card functionality WIP
+
+#### Monday 6:00-8:55
+
+* Successfully to show selected card
