@@ -43,3 +43,4 @@
 
 * 6:00-8:00: Successfully add popup page and shows card detail as the content
 * 8:00-8:25: Transfer new functionalitys from rough copy to the finaly project
+* 8:25-8:45: Add styling to the project so that the popup page shows correctly
