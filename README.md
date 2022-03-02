@@ -35,6 +35,10 @@
 * 3:40 - 3:55: Watched a tutorial video for creating a popup for card details
 * 3:55 - 4:55: Select card functionality WIP
 
-#### Monday 6:00-8:55
+#### Monday, 02/28/2022
 
-* Successfully to show selected card
+* 6:00-8:55: Successfully to show selected card
+
+#### Tuesday, 03/01/2022
+
+* 6:00-8:00: Successfully add popup page and shows card detail as the content
