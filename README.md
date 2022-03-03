@@ -47,4 +47,5 @@
 
 #### Wednesday, 03/02/2022
 
-* 6:00-6:15 : Update popup styling, so that it's in the center of the page
+* 6:00-6:15: Update popup styling, so that it's in the center of the page
+* 6:15-6:45: Continue styling for the popup page, add a scroll bar when the information is too long. Change the onClick function to onDoubleClick in Card.js.
