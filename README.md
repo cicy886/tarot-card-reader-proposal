@@ -55,3 +55,7 @@
 #### Saturday, 03/05/2022
 
 * 5:00 - 7:35: Successfully add card flip animation to the project
+
+#### Sunday, 03/06/2022
+
+* 9:15 - 9:45: Add hover styling to the card
