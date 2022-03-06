@@ -64,3 +64,4 @@ const image= require(`./../img/${card.name_short}.jpg`)
 <img src = {image}>
 
 * The selected card functionality was suppose to loop through an object within and object, so use cards[id] won't work. It needs to be cards.cards[id]
+* react boostrap doesn't see working well with react router dom. Going to just use react router dom for the navbar

@@ -59,3 +59,4 @@
 #### Sunday, 03/06/2022
 
 * 9:15 - 9:45: Add hover styling to the card
+* 9:45 - 11:45: Tried react router dom and react bootstrap for navbar
