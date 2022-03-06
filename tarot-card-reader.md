@@ -53,6 +53,7 @@ Additional sources for coding:
 * Using useEffect to fetch data from the api https://www.youtube.com/watch?v=RVFAyFWO4go&t=3362s&ab_channel=DaveGray from 4:04:00 to 4:44:00
 * Tutorial video for popup: https://www.youtube.com/watch?v=i8fAO_zyFAM&list=PLdoNE8-w7k0w3I0bCGKnUAdb1ilDsYmf0&index=2&t=765s&ab_channel=TylerPotts
 * Card flip animation with css: https://www.youtube.com/watch?v=OV8MVmtgmoY&ab_channel=ArjunKhara
+* Card flip animation project example: https://codesandbox.io/s/xovuw?file=/src/components/Card.jsx
 
 Problem found:
 

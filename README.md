@@ -51,3 +51,7 @@
 * 6:15-6:45: Continue styling for the popup page, add a scroll bar when the information is too long. Change the onClick function to onDoubleClick in Card.js.
 * 6:45-7:10: Research for card flip animation
 * 7:10-9:05: Card flip animation WIP
+
+#### Saturday, 03/05/2022
+
+* 5:00 - 7:35: Successfully add card flip animation to the project
