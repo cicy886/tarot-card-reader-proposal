@@ -60,3 +60,4 @@
 
 * 9:15 - 9:45: Add hover styling to the card
 * 9:45 - 11:45: Tried react router dom and react bootstrap for navbar
+* 11:45 - 12:34: Add card spread page and show 5 random cards
