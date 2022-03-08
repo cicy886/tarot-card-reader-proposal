@@ -62,3 +62,7 @@
 * 9:45 - 11:45: Tried react router dom and react bootstrap for navbar
 * 11:45 - 12:34: Add card spread page and show 5 random cards
 * 1:35 - 5:00: Random Card rotation WIP
+
+#### Monday, 03/07/2022
+
+*  6:30 - 8:20: Add Category page that can sort card in by it's suits or types
