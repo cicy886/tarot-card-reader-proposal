@@ -66,3 +66,7 @@
 #### Monday, 03/07/2022
 
 *  6:30 - 8:20: Add Category page that can sort card in by it's suits or types
+
+#### Tueday, 03/08/2022
+
+* 6:00 - 6:40: Random function for rotated card WIP
