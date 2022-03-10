@@ -71,3 +71,7 @@
 
 * 6:00 - 6:40: Random function for rotated card WIP
 * 6:40 - 9:10: Successfully add a navbar with a dropdown menu
+
+#### Wednesday, 03/09/2022
+
+* 6:00 - 9:45: Random image rotation WIP, get one image rotate now
