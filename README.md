@@ -78,4 +78,5 @@
 
 #### Thurday, 03/10/2022
 
-* 6:00 -8:00: Transfer code to the final project from draft project along with minor code updates.
+* 6:00 - 8:00: Transfer code to the final project from draft project along with minor code updates
+* 8:00 - 8:35: Add styling for button
