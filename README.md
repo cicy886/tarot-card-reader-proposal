@@ -84,3 +84,7 @@
 #### Friday, 03/11/2022
 
 * 6:30 - 8:45: Successfully set a random number as initial state for rotated card index
+
+#### Saturday, 03/12/2022
+
+* 2:00- 3:05: Transfer code from draft project to the final porject, minor code updates, styling
