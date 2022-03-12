@@ -80,3 +80,7 @@
 
 * 6:00 - 8:00: Transfer code to the final project from draft project along with minor code updates
 * 8:00 - 8:35: Add styling for button
+
+#### Friday, 03/11/2022
+
+* 6:30 - 8:45: Successfully set a random number as initial state for rotated card index
