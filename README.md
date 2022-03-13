@@ -87,4 +87,5 @@
 
 #### Saturday, 03/12/2022
 
-* 2:00- 3:05: Transfer code from draft project to the final porject, minor code updates, styling
+* 2:00 - 3:05: Transfer code from draft project to the final porject, minor code updates, styling
+* 3:10 - 4:15: Research for using figma to draw a diagram. Using diagrams.net to make diagrams instead.
